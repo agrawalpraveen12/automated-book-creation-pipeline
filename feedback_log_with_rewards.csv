@@ -1,0 +1,4 @@
+chapter,input_version,human_rating,edit_distance,reward
+chapter1,AI_reviewed,4,0.12,6.8
+chapter2,AI_reviewed,2,0.48,-0.7999999999999998
+chapter3,AI_reviewed,5,0.05,9.5
